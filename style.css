@@ -1,0 +1,17 @@
+h1 {
+	color: #800000;
+	text-align: center;
+	font-size: 50px;
+}
+.body {
+	font-family: 'Open Sans', sans-serif;
+	width: 60%;
+	margin-left: 6%;
+}
+
+#llama {
+	float: right;
+	margin-right: 6%;
+	width: 25%;
+	height: auto;
+}
