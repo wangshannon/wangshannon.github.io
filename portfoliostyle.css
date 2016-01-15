@@ -4,15 +4,20 @@ h1 {
 	font-size: 50px;
 }
 
+h4 {
+	color: #800000;
+	font-size: 20px;
+}
+
 .body {
 	font-family: 'Open Sans', sans-serif;
-	width: 60%;
 	margin-left: 6%;
 }
 
-#llama {
-	float: right;
-	margin-right: 6%;
-	width: 25%;
+#flowchart {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 	height: auto;
 }
